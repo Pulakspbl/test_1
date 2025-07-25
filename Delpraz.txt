@@ -1,0 +1,1893 @@
+PRODUCT MONOGRAPH
+Pr
+
+DEXILANT®
+
+Dexlansoprazole
+delayed release capsules 30 mg and 60 mg
+H+, K+ - ATPase Inhibitor
+
+Takeda Canada Inc.
+Toronto, Ontario M5H 4E3
+
+Date of Revision:
+January 06, 2020
+
+Submission Control No: 231640
+
+DEXILANT® Product Monograph
+
+Page 1 of 38
+
+Table of Contents
+
+PART I: HEALTH PROFESSIONAL INFORMATION ......................................................... 3
+SUMMARY PRODUCT INFORMATION........................................................................ 3
+INDICATIONS AND CLINICAL USE ............................................................................. 3
+CONTRAINDICATIONS ................................................................................................... 3
+WARNINGS AND PRECAUTIONS ................................................................................. 4
+ADVERSE REACTIONS ................................................................................................... 8
+DRUG INTERACTIONS ................................................................................................. 11
+DOSAGE AND ADMINISTRATION ............................................................................. 14
+OVERDOSAGE ................................................................................................................ 15
+ACTION AND CLINICAL PHARMACOLOGY ............................................................ 15
+STORAGE AND STABILITY ......................................................................................... 20
+DOSAGE FORMS, COMPOSITION AND PACKAGING............................................. 20
+PART II: SCIENTIFIC INFORMATION ............................................................................... 21
+PHARMACEUTICAL INFORMATION ......................................................................... 21
+CLINICAL TRIALS ......................................................................................................... 21
+DETAILED PHARMACOLOGY .................................................................................... 26
+TOXICOLOGY ................................................................................................................. 28
+REFERENCES .................................................................................................................. 32
+PART III: PATIENT MEDICATION INFORMATION........................................................ 34
+
+DEXILANT® Product Monograph
+
+Page 2 of 38
+
+Pr
+
+DEXILANT®
+
+Dexlansoprazole delayed release capsules, 30 mg and 60 mg
+PART I: HEALTH PROFESSIONAL INFORMATION
+SUMMARY PRODUCT INFORMATION
+Route of
+Administration
+
+Dosage Form /
+Strength
+
+Oral, Nasogastric
+
+Delayed Release
+Capsule
+30 mg, 60 mg
+
+Clinically Relevant Nonmedicinal
+Ingredients
+None
+For a complete listing see DOSAGE FORMS,
+COMPOSITION AND PACKAGING section.
+
+INDICATIONS AND CLINICAL USE
+DEXILANT® is indicated for the following in patients 12 years of age and older:
+Healing of Erosive Esophagitis
+DEXILANT® is indicated for healing of all grades of erosive esophagitis (EE) for up to 8 weeks.
+Maintenance of Healed Erosive Esophagitis
+DEXILANT® is indicated for maintaining healing of erosive esophagitis for up to 4 months in
+adolescents 12 to 17 years of age and up to 6 months in adults.
+Symptomatic Non-Erosive Gastroesophageal Reflux Disease
+DEXILANT® is indicated for the treatment of heartburn associated with symptomatic nonerosive gastroesophageal reflux disease (GERD) for 4 weeks.
+Pediatrics (12 to 17 years of age):
+DEXILANT® is indicated for treatment of heartburn associated with symptomatic non-erosive
+GERD, healing of all grades of EE, and maintenance of healed EE in adolescents 12 to 17 years
+of age (See CLINICAL TRIALS, Pediatric Studies)
+Safety and effectiveness of DEXILANT® in children under 12 years of age have not been
+established (See WARNINGS AND PRECAUTIONS, Special Populations, Pediatrics).
+Geriatrics (> 65 years of age):
+No dosage adjustment is necessary for elderly patients.
+CONTRAINDICATIONS
+• Patients who are hypersensitive to this drug or to any ingredient in the formulation. For a
+DEXILANT® Product Monograph
+
+Page 3 of 38
+
+complete listing, see DOSAGE FORMS, COMPOSITION AND PACKAGING.
+•
+
+Co-administration with rilpivirine is contraindicated.
+
+WARNINGS AND PRECAUTIONS
+General
+Symptomatic response with DEXILANT® does not preclude the presence of gastric malignancy.
+Antibiotic Combination Therapy
+Pseudomembranous colitis has been reported with nearly all antibacterial agents, including
+clarithromycin and amoxicillin, and may range in severity from mild to life threatening.
+Therefore, it is important to consider this diagnosis in patients who present with diarrhea
+subsequent to the administration of antibacterial agents.
+Treatment with antibacterial agents alters the normal flora of the colon and may permit
+overgrowth of Clostridia. Studies indicate that a toxin produced by Clostridium difficile is a
+primary cause of “antibiotic-associated colitis”.
+After the diagnosis of pseudomembranous colitis has been established, therapeutic measures
+should be initiated. Mild cases of pseudomembranous colitis usually respond to discontinuation
+of the drug alone. In moderate to severe cases, consideration should be given to management
+with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug
+clinically effective against Clostridium difficile colitis.
+Clostridium Difficile-Associated Diarrhea
+Decreased gastric acidity due to any means, including proton pump inhibitors (PPIs), increases
+gastric counts of bacteria normally present in the gastrointestinal tract. Treatment with proton
+pump inhibitors (PPIs) can lead to an increased risk of gastrointestinal infections such as
+Salmonella, Campylobacter and Clostridium difficile.
+An increased risk for Clostridium difficile infection (CDI) and Clostridium difficile-associated
+diarrhea (CDAD) has been observed in association with PPI use in several observational studies.
+CDI/CDAD should be considered in the differential diagnosis for diarrhea that does not improve.
+Additional risk factors for CDI and CDAD include recent hospitalization, the use of antibiotics,
+old age and the presence of co-morbidities.
+Patients should be prescribed PPIs at the lowest dose and for the shortest duration required for the
+condition being treated and be reassessed to ascertain whether continued PPI therapy remains
+beneficial.
+Concomitant Use with Methotrexate
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose) may
+elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to
+methotrexate toxicities. A temporary withdrawal of the PPI may be considered in some patients
+receiving treatments with high dose methotrexate.
+DEXILANT® Product Monograph
+
+Page 4 of 38
+
+Bone Fracture
+Several published observational studies suggest that PPI therapy may be associated with an
+increased risk for osteoporosis-related fractures of the hip, wrist, or spine. The risk of fracture
+was increased in patients who received high-dose, defined as multiple daily doses, and long-term
+PPI therapy (a year or longer). Patients should use the lowest dose and shortest duration of PPI
+therapy appropriate to the condition being treated. Patients at risk for osteoporosis-related
+fractures should be managed according to established treatment guidelines (see DOSAGE AND
+ADMINISTRATION and ADVERSE REACTIONS).
+Carcinogenesis and Mutagenesis
+Dexlansoprazole was positive in the Ames test for mutagenicity in bacteria. In an in vitro
+chromosome aberration test using Chinese hamster lung cells, dexlansoprazole was considered
+positive based on equivocal data in which the percentage of cells with aberrant chromosomes
+increased slightly but did not reach the pre-set criteria for a positive response. Dexlansoprazole
+was negative in the in vivo mouse micronucleus test.
+Lansoprazole is a racemic mixture of R- and S-enantiomers. Following administration of
+lansoprazole in humans and animals, the major component circulating in plasma is
+dexlansoprazole, the R-enantiomer of lansoprazole. Therefore, the carcinogenic potential of
+dexlansoprazole was assessed using existing lansoprazole studies (see TOXICOLOGY).
+Lansoprazole treatment for 2-years was associated with hyperplasia and neoplasms (carcinoids)
+of enterochromaffin-like cells (ECL cells) in the stomach of conventional rats and mice. These
+proliferations are related to prolonged hypergastrinemia secondary to gastric acid suppression.
+Benign tumors of the testis (interstitial cell adenomas in rats and rete testis adenomas in mice)
+were secondary to an inhibitory effect on testosterone synthesis at high doses in these species.
+Hepatocellular adenomas and carcinomas were increased in the livers of mice related to induction
+of CYP enzymes leading to increased liver weights.
+Drug Interactions with Antiretroviral Drugs
+PPIs have been reported to interact with some antiretroviral drugs. The clinical importance and
+the mechanisms behind these interactions are not always known. A change in gastric pH may
+change the absorption of the antiretroviral drug. Other possible mechanisms are via CYP 2Cl9.
+Rilpivirine
+Co-administration is contraindicated due to significant decrease in rilpivirine exposure and loss
+of therapeutic effect (see CONTRAINDICATIONS).
+Atazanavir and Nelfinavir
+Co-administration with atazanavir or nelfinavir is not recommended due to decreased atazanavir
+and nelfinavir exposure (see the REYATAZ® and VIRACEPT® Product Monographs).
+If the combination of DEXILANT® with atazanavir is judged unavoidable, close clinical
+monitoring is recommended in combination with the use of 400 mg atazanavir/100 mg ritonavir
+dose; the dose of DEXILANT® should not exceed an equivalent dose of omeprazole of 20 mg
+daily (see REYATAZ® Product Monograph).
+
+DEXILANT® Product Monograph
+
+Page 5 of 38
+
+Saquinavir
+If DEXILANT® is co-administered with saquinavir/ritonavir, caution and monitoring for
+potential saquinavir toxicities, including gastrointestinal symptoms, increased triglycerides, deep
+vein thrombosis and QT prolongation, are recommended. Dose reduction of saquinavir should be
+considered from the safety perspective for individual patients (see INVIRASE® Product
+Monograph).
+Endocrine and Metabolism
+Hypomagnesemia
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated
+with PPIs for at least three months, in most cases after a year of therapy. Serious adverse events
+include tetany, arrhythmias, and seizures. In most patients, treatment of hypomagnesemia
+required magnesium replacement and discontinuation of the PPI.
+For patients expected to be on prolonged treatment or who take PPIs with medications such as
+digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may
+consider monitoring magnesium levels prior to initiation of PPI treatment and periodically (see
+ADVERSE REACTIONS).
+The chronic use of PPIs may lead to hypomagnesaemia. Moreover, hypokalemia and
+hypocalcemia have been reported in the literature as accompanying electrolyte disorders.
+Cyanocobalamin (Vitamin B12) Deficiency
+The prolonged use of proton pump inhibitors may impair the absorption of protein-bound
+Vitamin B12 and may contribute to the development of cyanocobalamin (Vitamin B12)
+deficiency.
+Genitourinary
+Testicular interstitial cell adenoma occurred in 1 of 30 rats treated with 50 mg/kg/day of
+lansoprazole (13 times the recommended human dose based on body surface area) in a one-year
+toxicity study (see TOXICOLOGY, Carcinogenicity).
+These changes are associated with endocrine alterations which have not been, to date, observed in
+humans.
+Gastrointestinal
+Long-term use of DEXILANT® is associated with an increased risk of fundic gland polyps,
+especially beyond one year (see ADVERSE REACTIONS, Post-Market Adverse Drug
+Reactions). Most fundic gland polyps are asymptomatic. Use the lowest dose and shortest
+duration of PPI therapy appropriate to the condition being treated.
+Interference with Laboratory Tests
+During treatment with antisecretory drugs, chromogranin A (CgA) increases due to decreased
+gastric acidity. Increased CgA levels may interfere with investigations for neuroendocrine
+DEXILANT® Product Monograph
+
+Page 6 of 38
+
+tumours. To avoid this interference, DEXILANT® treatment should be stopped 14 days before
+CgA measurements (See DRUG INTERACTIONS).
+Special Populations
+Pregnant Women:
+There are no adequate or well-controlled studies in pregnant women with DEXILANT®.
+Exposure in clinical trials was very limited. DEXILANT® should not be administered to pregnant
+women unless the expected benefits outweigh the potential risks. See TOXICOLOGY,
+Reproduction and Teratology.
+Nursing Women:
+It is not known whether dexlansoprazole is excreted in human milk. However, lansoprazole (the
+racemate) and its metabolites are excreted in the milk of rats. As many drugs are excreted in
+human milk, DEXILANT® should not be given to nursing mothers unless its use is considered
+essential. In this case nursing should be avoided.
+Pediatrics (12 to 17 years of age):
+Safety and effectiveness of DEXILANT® in children under 12 years of age have not been
+established.
+DEXILANT should not be used in pediatric patients less than one year of age because
+lansoprazole (the racemic mixture) was not effective for the treatment of symptomatic GERD in a
+multicenter, double-blind controlled trial. In addition, toxicology studies with lansoprazole have
+shown heart valve thickening and bone changes in juvenile rats (See TOXICOLOGY, Juvenile
+Animal Toxicity Data).
+DEXILANT® is indicated for adolescents 12 to 17 years of age, and is supported by evidence
+from adequate and well-controlled studies of dexlansoprazole in adults, and by additional
+efficacy, safety and pharmacokinetic data in adolescents 12 to 17 years of age for the treatment of
+heartburn associated with symptomatic non-erosive GERD, healing of all grades of EE, and
+maintenance of healed EE (See ADVERSE REACTIONS, Clinical trial adverse drug reactions
+(pediatrics), CLINICAL TRIALS, Pediatric studies, and ACTION AND CLINICAL
+PHARMACOLOGY, Special Populations and Conditions).
+Geriatrics (> 65 years of age):
+In clinical studies of DEXILANT®, 11% of patients were aged 65 years and over. No overall
+differences in safety or effectiveness were observed between these patients and younger patients.
+No dosage adjustment is necessary for elderly patients. See ACTION AND CLINICAL
+PHARMACOLOGY, Special Populations and Conditions.
+Benefits of use of PPIs should be weighed against the increased risk of fractures as patients in
+this category (> 71 years of age) may already be at high risk for osteoporosis-related fractures. If
+the use of PPIs is required, they should be managed carefully according to established treatment
+guidelines (see DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS)
+Hepatic Impairment:
+DEXILANT® Product Monograph
+
+Page 7 of 38
+
+No dosage adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class
+A). A maximum daily dose of 30 mg should be considered for patients with moderate hepatic
+impairment (Child-Pugh Class B). No studies have been conducted in patients with severe
+hepatic impairment. See ACTION AND CLINICAL PHARMACOLOGY, Special Populations
+and Conditions.
+Renal Impairment:
+No dosage adjustment is necessary for patients with renal impairment. See ACTION AND
+CLINICAL PHARMACOLOGY, Special Populations and Conditions.
+Immune
+Subacute cutaneous lupus erythematosus:
+Subacute cutaneous lupus erythematosus (SCLE) has been reported with the use of PPIs. If
+lesions occur, especially in sun-exposed areas of the skin, and if accompanied by arthralgia, the
+patient should seek medical help promptly and the health care professional should consider
+stopping DEXILANT®. The occurrence of SCLE with previous PPI treatment may increase the
+risk of SCLE with other PPIs (see ADVERSE REACTIONS, Post-Market Adverse Drug
+Reactions).
+ADVERSE REACTIONS
+Clinical Trial Adverse Drug Reactions
+Because clinical trials are conducted under very specific conditions the adverse reaction rates
+observed in the clinical trials may not reflect the rates observed in practice and should not be
+compared to the rates in the clinical trials of another drug. Adverse drug reaction information
+from clinical trials is useful for identifying drug-related adverse events and for approximating
+rates.
+Adults
+The safety of DEXILANT® was evaluated in 4548 patients in controlled and uncontrolled clinical
+studies (30 mg, 60 mg, and 90 mg), including 863 patients treated for at least 6 months and 282
+patients treated for one year. Patients ranged in age from 18 to 90 years (median age 48 years),
+with 54% female, 85% Caucasian, 8% Black, 4% Asian and 3% other races. Six randomized
+controlled clinical trials were conducted for the treatment of erosive esophagitis, maintenance of
+healed erosive esophagitis, and symptomatic GERD, which included 896 patients on placebo,
+2621 patients on DEXILANT® 30 mg or 60 mg and 1363 patients on lansoprazole 30 mg.
+The following adverse events were reported to have a possible or definite treatment-relationship
+to DEXILANT® in 1% or more of the treated patients in placebo and positive-controlled clinical
+trials (Tables 1 and 2, respectively). Numbers in parentheses indicate the percentage of the
+adverse events reported.
+Table 1: Incidence of Possibly or Definitely Treatment-Related Adverse Events in
+Placebo Controlled Studies
+DEXILANT® Product Monograph
+
+Page 8 of 38
+
+Body System
+Adverse Event
+Gastrointestinal disorders
+Diarrhea
+Abdominal Pain
+Nausea
+Flatulence
+Constipation
+Nervous system disorders
+Headache
+
+Placebo
+(N=896)
+n (%)
+
+DEXILANT®
+30 mg and 60 mg
+(N=1399)
+n (%)
+
+17 (1.9)
+14 (1.6)
+16 (1.8)
+5 (0.6)
+9 (1.0)
+
+52 (3.7)
+37 (2.6)
+31 (2.2)
+25 (1.8)
+15 (1.1)
+
+21 (2.3)
+
+31 (2.2)
+
+Table 2: Incidence of Possibly or Definitely Treatment-Related Adverse Events in
+Active Controlled Clinical Trials
+DEXILANT®
+Lansoprazole
+60 mg and 90 mg
+30 mg
+Body System
+(N=1374)
+(N=1363)
+Adverse Event
+n (%)
+n (%)
+Gastrointestinal disorders
+Diarrhea
+44 (3.2)
+28 (2.1)
+Abdominal pain
+21 (1.5)
+19 (1.4)
+Nausea
+14 (1.0)
+18 (1.3)
+Nervous system disorders
+Headache
+16 (1.2)
+19 (1.4)
+In placebo-controlled studies, gastrointestinal adverse reactions other than constipation occurred
+at a higher incidence for DEXILANT® than placebo. In active-controlled studies, diarrhea
+occurred at a higher incidence for DEXILANT® than lansoprazole. The incidence of other
+common adverse reactions for DEXILANT® were similar to or lower than placebo or
+lansoprazole.
+Less Common Clinical Trial Adverse Drug Reactions (<1%)
+Other adverse reactions that were reported for DEXILANT® (30 mg, 60 mg or 90 mg) in
+controlled studies at an incidence of less than 1% are listed below by body system:
+Blood and Lymphatic System Disorders: anemia, lymphadenopathy
+Cardiac Disorders: acute myocardial infarction, angina, arrhythmia, bradycardia, edema,
+palpitations, tachycardia
+Ear and Labyrinth Disorders: ear pain, tinnitus, vertigo
+Endocrine Disorders: goiter
+Eye Disorders: eye irritation, eye swelling
+Gastrointestinal Disorders: abdominal discomfort, abdominal tenderness, abnormal feces, anal
+discomfort, Barrett’s esophagus, bezoar, bowel sounds abnormal, breath odor, colitis
+microscopic, colonic polyp, dry mouth, duodenitis, dyspepsia, dysphagia, enteritis, eructation,
+DEXILANT® Product Monograph
+
+Page 9 of 38
+
+esophagitis, gastric polyp, gastritis, gastroenteritis, gastrointestinal disorders, gastrointestinal
+hypermotility disorders, GERD, GI ulcers and perforation, hematemesis, hematochezia,
+hemorrhoids, impaired gastric emptying, irritable bowel syndrome, mucus stools, oral mucosal
+blistering, painful defecation, paresthesia oral, proctitis, rectal hemorrhage, vomiting
+General Disorders and Administration Site Conditions: adverse drug reaction, asthenia, chest
+pain, chills, feeling abnormal, inflammation, mucosal inflammation, nodule, pain, pyrexia
+Hepatobiliary Disorders: biliary colic, cholelithiasis, hepatomegaly
+Immune System Disorders: hypersensitivity
+Infections and Infestations: candida infections, influenza, nasopharyngitis, oral herpes,
+pharyngitis, sinusitis, upper respiratory tract infection, viral infection, vulvo-vaginal infection
+Injury, Poisoning and Procedural Complications: overdose, procedural pain, sunburn
+Laboratory Investigations: ALP increased, ALT increased, AST increased, bilirubin
+decreased/increased, blood creatinine increased, blood gastrin increased, blood glucose increased,
+blood potassium increased, liver function test abnormal, platelet count decreased, total protein
+increased, weight increased
+Metabolism and Nutrition Disorders: appetite changes, hypercalcemia, hypokalemia
+Musculoskeletal and Connective Tissue Disorders: arthralgia, arthritis, muscle cramps,
+musculoskeletal pain, myalgia
+Nervous System Disorders: altered taste, convulsion, dizziness, memory impairment, migraine,
+paresthesia, psychomotor hyperactivity, tremor, trigeminal neuralgia
+Psychiatric Disorders: abnormal dreams, anxiety, depression, insomnia, libido changes
+Renal and Urinary Disorders: dysuria, micturition urgency
+Reproductive System and Breast Disorders: dysmenorrhea, dyspareunia, menorrhagia, menstrual
+disorder
+Respiratory, Thoracic and Mediastinal Disorders: aspiration, asthma, bronchitis, cough,
+dyspnoea, hiccups, hyperventilation, respiratory tract congestion, sore throat
+Skin and Subcutaneous Tissue Disorders: acne, dermatitis, erythema, pruritus, rash, skin lesion,
+urticaria
+Vascular Disorders: deep vein thrombosis, hot flush, hypertension
+Additional adverse reactions that were reported for DEXILANT® (60 mg or 90 mg) in a longterm uncontrolled study included: anaphylaxis, auditory hallucination, B-cell lymphoma, bursitis,
+central obesity, cholecystitis acute, decreased hemoglobin, dehydration, diabetes mellitus,
+dysphonia, epistaxis, folliculitis, gout, herpes zoster, hyperglycemia, hyperlipidemia,
+hypothyroidism, increased neutrophils, MCHC decreased, neutropenia, oral soft tissue disorder,
+rectal tenesmus, restless legs syndrome, somnolence, thrombocythemia, tonsillitis.
+Pediatrics
+The safety of DEXILANT® was evaluated in controlled and single-arm clinical trials including
+166 adolescents, 12 to 17 years of age for the treatment of symptomatic non-erosive GERD,
+healing of EE, maintenance of healed EE and relief of heartburn (See CLINICAL TRIALS,
+Pediatric Studies).
+The adverse reaction profile was similar to that of adults. The most common adverse reactions
+that occurred in ≥ 5% of patients were headache, abdominal pain, diarrhea, nasopharyngitis and
+oropharyngeal pain.
+
+DEXILANT® Product Monograph
+
+Page 10 of 38
+
+Post-Market Adverse Drug Reactions
+Adverse reactions have been identified during post-marketing surveillance of DEXILANT®. As
+these reactions are reported voluntarily from a population of uncertain size, it is not always
+possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Blood and Lymphatic System Disorders: autoimmune hemolytic anemia, idiopathic
+thrombocytopenic purpura
+Ear and Labyrinth Disorders: deafness
+Eye Disorders: blurred vision
+Gastrointestinal Disorders: oral edema, pancreatitis
+General Disorders and Administration Site Conditions: facial edema
+Hepatobiliary Disorders: drug-induced hepatitis
+Immune System Disorders: anaphylactic shock (requiring emergency intervention), exfoliative
+dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal)
+Metabolism and Nutritional Disorders: hypomagnesemia, hyponatremia
+Musculoskeletal and Connective Tissue: Osteoporosis and osteoporosis-related fractures
+Nervous System Disorders: cerebrovascular accident, transient ischaemic attack
+Renal and Urinary Disorders: acute renal failure
+Respiratory, Thoracic and Mediastinal Disorders: pharyngeal edema, throat tightness
+Skin and Subcutaneous Tissue Disorders: generalized rash, leucocytoclastic vasculitis
+Withdrawal of long-term PPI therapy can lead to aggravation of acid related symptoms and may
+result in rebound acid hypersecretion.
+There have been post-marketing reports of subacute cutaneous lupus erythematosus (SCLE) (see
+WARNINGS AND PRECAUTIONS, Immune).
+There have been post-marketing reports of fundic gland polyps (FGPs) (see WARNINGS AND
+PRECAUTIONS, Gastrointestinal).
+DRUG INTERACTIONS
+Drug-Drug Interactions
+Drugs with pH-Dependent Absorption Pharmacokinetics
+It is theoretically possible that DEXILANT® may interfere with the absorption of other drugs
+where gastric pH is an important determinant of oral bioavailability (e.g., Ampicillin esters,
+digoxin, iron salts, ketoconazole).
+Cytochrome P 450 Interactions
+DEXILANT® is metabolized, in part, by CYP2C19 and CYP3A4 (see ACTION AND
+CLINICAL PHARMACOLOGY, Metabolism).
+In vitro studies have shown that dexlansoprazole is not likely to inhibit CYP isoforms 1A1, 1A2,
+2A6, 2B6, 2C8, 2C9, 2D6, 2E1 or 3A4. As such, no clinically relevant interactions with drugs
+metabolized by these CYP enzymes would be expected. Furthermore, in vivo studies showed that
+DEXILANT® did not have an impact on the pharmacokinetics of, coadministered phenytoin
+DEXILANT® Product Monograph
+
+Page 11 of 38
+
+(CYP2C9 substrate) or theophylline (CYP1A2 substrate).1 The subjects’ CYP1A2 genotypes in
+the drug-drug interaction study with theophylline were not determined. Although in vitro studies
+indicated that DEXILANT® has the potential to inhibit CYP2C19 in vivo, an in vivo drug-drug
+interaction study in mainly CYP2C19 extensive and intermediate metabolizers has shown that
+DEXILANT® does not affect the pharmacokinetics of diazepam (CYP2C19 substrate).
+Warfarin
+In a study of 20 healthy subjects, co-administration of DEXILANT® 90 mg once daily for 11
+days with a single 25 mg oral dose of warfarin on day 6 did not result in any significant
+differences in the pharmacokinetics of warfarin or INR compared to administration of warfarin
+with placebo.1 However, there have been reports of increased INR and prothrombin time in
+patients receiving PPIs and warfarin concomitantly. Patients treated with PPIs and warfarin
+concomitantly may need to be monitored for increases in INR and prothrombin time.
+Concomitant Use of Antacids with DEXILANT®
+No formal drug-drug interaction studies were conducted with DEXILANT® and antacids. Drugdrug interactions studies were performed with the racemate lansoprazole and antacids.
+Simultaneous administration of lansoprazole with aluminum and magnesium hydroxide or
+magaldrate results in lower peak plasma levels, but does not significantly reduce bioavailability.
+Antacids may be used concomitantly if required. In clinical trials, antacids were administered
+concomitantly with lansoprazole delayed-release capsules. In a single-dose crossover study when
+30 mg of lansoprazole was administered concomitantly with one gram of sucralfate in healthy
+volunteers, absorption of lansoprazole was delayed and its bioavailability was reduced. The
+value of lansoprazole AUC was reduced by 17% and that for Cmax was reduced by 21%. In a
+similar study when 30 mg of lansoprazole was administered concomitantly with 2 grams of
+sucralfate, lansoprazole AUC and Cmax were reduced by 32% and 55%, respectively. When
+lansoprazole dosing occurred 30 minutes prior to sucralfate administration, Cmax was reduced by
+only 28% and there was no statistically significant difference in lansoprazole AUC. Therefore,
+lansoprazole should be administered at least 30 minutes prior to sucralfate. It would be expected
+that similar results would be seen with DEXILANT®.
+Theophylline
+Although a study of the use of concomitant theophylline and dexlansoprazole did not reveal any
+changes in the pharmacokinetics or pharmacodynamics of theophylline, individual patients
+should monitor their theophylline level while taking the two drugs concomitantly.
+Tacrolimus
+Concomitant administration of dexlansoprazole and tacrolimus may increase whole blood levels
+of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of
+CYP2C19.
+Clopidogrel
+Concomitant administration of dexlansoprazole and clopidogrel in healthy subjects had no
+clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrelinduced platelet inhibition (see DETAILED PHARMACOLOGY). No dose adjustment of
+clopidogrel is necessary when administered with an approved dose of DEXILANT®.
+
+DEXILANT® Product Monograph
+
+Page 12 of 38
+
+Methotrexate
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest
+that concomitant administration of PPIs and methotrexate (primarily at high dose) may elevate
+and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate. However,
+no formal drug interaction studies of methotrexate with PPIs have been conducted.
+Rilpivirine
+Co-administration is contraindicated due to significant decrease in rilpivirine exposure and loss
+of therapeutic effect (see CONTRAINDICATIONS).
+Atazanavir
+Co-administration of DEXILANT® with atazanavir is not recommended. Concomitant
+administration of omeprazole (20 or 40 mg once daily) substantially reduced plasma Cmax and
+AUC of atazanavir in healthy volunteers administered atazanavir or atazanavir/ritonavir. (see
+REYATAZ® Product Monograph).
+Nelfinavir
+Co-administration of DEXILANT® with nelfinavir is not recommended. Concomitant
+administration of omeprazole (40 mg daily) with nelfinavir (1250 mg twice daily) markedly
+reduced the AUC and Cmax for nelfinavir (by 36% and 37%, respectively) and its active
+metabolite M8 (by 92% and 89%, respectively) (see VIRACEPT® Product Monograph).
+Saquinavir
+Co-administration of saquinavir requires caution and monitoring, along with potential dose
+reduction of saquinavir, due to increased saquinavir exposure and thus the risk of saquinavirrelated toxicities (see the INVIRASE® Product Monograph).
+Concomitant administration of omeprazole (40 mg daily) with saquinavir/ritonavir (1000/100 mg
+twice daily) increased saquinavir AUC by 82% and Cmax by 75%.
+Drug-Food Interactions
+DEXILANT® can be taken without regard to food or timing of food (see ACTION AND
+CLINICAL PHARMACOLOGY).
+Drug-Herb Interactions
+Interactions with herbal products have not been established.
+Drug-Laboratory Interactions
+During treatment with antisecretory drugs, Chromogranin A (CgA) increases due to decreased
+gastric acidity. Increased CgA levels may interfere with investigations for neuroendocrine
+tumours. To avoid this interference, DEXILANT® treatment should be stopped 14 days before
+CgA measurements (See ACTION AND CLINICAL PHARMACOLOGY / Pharmacodynamic
+Properties).
+
+DEXILANT® Product Monograph
+
+Page 13 of 38
+
+DOSAGE AND ADMINISTRATION
+Recommended Dose in Patients 12 Years of Age and Older and Dosage Adjustment
+Indication
+Healing of Erosive Esophagitis
+
+a
+b
+
+Maintenance of Healed Erosive
+Esophagitis
+Symptomatic Non-Erosive
+Gastroesophageal Reflux Disease
+(GERD)
+
+Recommended Dose
+60 mg
+
+Frequency
+Once daily for up to 8 weeks
+
+30 mg a
+
+Once daily b
+
+30 mg
+
+Once daily for 4 weeks
+
+In patients who had moderate or severe erosive esophagitis, a maintenance dose of 60 mg may be used.
+Controlled studies did not extend beyond 6 months in adults, and beyond 4 months in adolescents 12 to 17 years of
+age.
+
+No dosage adjustment for DEXILANT® is necessary for patients with mild hepatic impairment
+(Child-Pugh Class A). DEXILANT® 30 mg should be considered for patients with moderate
+hepatic impairment (Child-Pugh Class B). No studies have been conducted in patients with
+severe hepatic impairment (Child-Pugh Class C).
+No dosage adjustment is necessary for elderly patients or for patients with renal impairment.
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the
+condition being treated.
+Missed Dose
+If a capsule is missed at its usual time, it should be taken as soon as possible. But if it is too close
+to the time of the next dose, only the prescribed dose should be taken at the appointed time. A
+double dose should not be taken.
+Administration
+DEXILANT® can be taken without regard to food or the timing of food.
+DEXILANT® should be swallowed whole with plenty of water.
+• Alternatively, DEXILANT® capsules can be opened and administered as follows:
+• Administration with Applesauce
+1. Place one tablespoon of applesauce into a clean container
+2. Open capsule
+3. Sprinkle intact granules on applesauce;
+4. Swallow applesauce and granules immediately. Do not chew granules. Do not save the
+applesauce and granules for later use.
+• Administration with Water in an Oral Syringe
+1. Open the capsule and empty the granules into a clean container with 20 mL of water.
+2. Withdraw the entire mixture into a syringe.
+DEXILANT® Product Monograph
+
+Page 14 of 38
+
+3. Gently swirl the syringe in order to keep granules from settling.
+4. Administer the mixture immediately into the mouth. Do not save the water and granule
+mixture for later use.
+5. Refill the syringe with 10 mL of water, swirl gently, and administer.
+6. Repeat step 5.
+• Administration with Water via a Nasogastric Tube (≥16 French)
+1. Open the capsule and empty the granules into a clean container with 20 mL of water.
+2. Withdraw the entire mixture into a catheter-tip syringe.
+3. Swirl the syringe gently in order to keep the granules from settling, and immediately
+inject the mixture through the nasogastric tube into the stomach. Do not save the water
+and granule mixture for later use.
+4. Refill the syringe with 10 mL of water, swirl gently, and flush the tube.
+5. Repeat step 4.
+OVERDOSAGE
+There have been no reports of significant overdose of DEXILANT®. Dexlansoprazole is not
+expected to be removed from the circulation by hemodialysis.
+For management of a suspected drug overdose, contact your regional Poison Control
+Centre.
+ACTION AND CLINICAL PHARMACOLOGY
+Mechanism of Action
+DEXILANT® is a PPI that suppresses gastric acid secretion by specific inhibition of the (H+, K+)ATPase in the gastric parietal cell. By acting specifically on the proton pump, DEXILANT®
+blocks the final step of acid production.
+Pharmacodynamics
+Antisecretory Activity
+The effects of DEXILANT® 60 mg (n = 20) or lansoprazole 30 mg (n = 23) once daily for five
+days on 24-hour intragastric pH were assessed in healthy subjects in a multiple-dose crossover
+study.2 The results are summarized in Table 3.
+Table 3: Effect on 24-Hour Intragastric pH on Day 5 After
+Administration of DEXILANT® or Lansoprazole
+DEXILANT®
+Lansoprazole
+60 mg
+30 mg
+Mean Intragastric pH
+4.55*
+4.13
+% Time Intragastric pH > 4
+(hours)
+71*
+60
+(17 hours)
+(14 hours)
+DEXILANT® Product Monograph
+
+Page 15 of 38
+
+* p value <0.05 versus lansoprazole.
+
+Pharmacodynamic Properties
+During treatment with antisecretory medicinal products, serum gastrin increases in response to
+the decreased acid secretion. Also CgA increases due to decreased gastric acidity. The increased
+CgA levels may interfere with investigations for neuroendocrine tumours.
+Available published evidence suggests that proton pump inhibitors should be discontinued 14
+days prior to CgA measurements. This is to allow CgA levels that might be spuriously elevated
+following PPI treatment to return to reference range (See WARNINGS AND PRECAUTIONS –
+Interference with Laboratory Tests).
+Pharmacokinetics
+The formulation of DEXILANT® utilizing Dual Delayed Release technology results in a
+dexlansoprazole plasma concentration-time profile with two distinct peaks; the first peak occurs 1
+to 2 hours after administration, followed by a second peak within 4 to 5 hours (see Figure 1).2,3
+Figure 1: Mean Plasma Dexlansoprazole Concentration – Time Profile Following Oral
+Administration of 60 mg DEXILANT® or 30 mg Lansoprazole Once Daily for
+5 Days in Healthy Adult Subjects
+1200
+
+Plasma Concentration (ng/mL)
+
+DEXILANT 60 mg
+Lansoprazole 30 mg
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+Time (h)
+
+Dexlansoprazole is eliminated with a half-life of approximately 1 to 2 hours in healthy subjects
+(see Table 4) and in patients with symptomatic GERD. No accumulation of dexlansoprazole
+occurs after multiple, once daily doses of DEXILANT® 30 mg or 60 mg.
+
+DEXILANT® Product Monograph
+
+Page 16 of 38
+
+a
+
+Table 4: Mean (CV %) Pharmacokinetic Parameters for Healthy
+Adult Subjects on Day 5 After Administration of DEXILANT®
+Dose
+Cmax
+AUC24
+t1/2a
+CL/F
+Vz/F
+(mg)
+(ng/mL) (ng·h/mL)
+(h)
+(L/h)
+30
+658
+3275
+1.49
+11.4
+25.7
+(40%)
+(47%)
+(N=43)
+(48%)
+(49%)
+(N=44)
+(N=43)
+(N=43)
+(N=43)
+60
+1397
+6529
+1.54
+11.6
+33.8
+(51%)
+(60%)
+(N=73)
+(46%)
+(89%)
+(N=79)
+(N=73)
+(N=41)
+(N=41)
+Harmonic mean
+
+Absorption:
+After oral administration of DEXILANT® 30 mg or 60 mg to healthy subjects, mean Cmax and
+AUC values of dexlansoprazole increased approximately dose proportionally (see Figure 2).
+Figure 2:
+
+Mean Plasma Dexlansoprazole Concentration – Time Profile Following Oral
+Administration of DEXILANT® on Day 5 in Healthy Adult Subjects
+
+Plasma Concentration (ng/mL)
+
+1200
+
+DEXILANT 30 mg
+DEXILANT 60 mg
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+Time (h)
+
+Distribution:
+Plasma protein binding of dexlansoprazole ranged from 96.1% to 98.8% in healthy subjects and
+was independent of concentration from 0.01 to 20 mcg/mL. The apparent volume of distribution
+(Vz/F) after multiple doses in symptomatic GERD patients was 40.3 L.
+Metabolism:
+Dexlansoprazole is extensively metabolized in the liver by oxidation, reduction, and subsequent
+formation of sulfate, glucuronide and glutathione conjugates to inactive metabolites. Oxidative
+metabolites are formed by the cytochrome P450 (CYP) enzyme system including hydroxylation
+mainly by CYP2C19, and oxidation to the sulfone by CYP3A4.
+CYP2C19 is a polymorphic liver enzyme which exhibits three phenotypes in the metabolism of
+CYP2C19 substrates; extensive metabolizers (*1/*1), intermediate metabolizers (*1/mutant) and
+poor metabolizers (mutant/mutant). Systemic exposure of dexlansoprazole is generally higher in
+DEXILANT® Product Monograph
+
+Page 17 of 38
+
+intermediate and poor metabolizers. Dexlansoprazole is the major circulating component in
+plasma4, regardless of CYP2C19 metabolizer status. In CYP2C19 intermediate and extensive
+metabolizers, the major plasma metabolites are 5-hydroxy dexlansoprazole and its glucuronide
+conjugate, while in CYP2C19 poor metabolizers dexlansoprazole sulfone is the major plasma
+metabolite.
+Excretion:
+Following the administration of DEXILANT®, no unchanged dexlansoprazole is excreted in
+urine. Following the administration of [14C]dexlansoprazole to 6 healthy male subjects,
+approximately 50.7% (standard deviation (SD): 9.0%) of the administered radioactivity was
+excreted in urine and 47.6% (SD: 7.3%) in the feces. Apparent clearance (CL/F) in healthy
+subjects was 11.4 to 11.6 L/h, respectively, after 5-days of 30 or 60 mg once daily administration.
+Effect of Food:
+DEXILANT® can be taken without regard to food or the timing of food. In food-effect studies in
+healthy subjects receiving DEXILANT®, increases in Cmax ranged from 12% to 55% and
+increases in AUC ranged from 9% to 37% under various fed conditions compared to fasting.
+However, no relevant differences with regard to intragastric pH were observed.5 An additional
+study showed that administration of 60 mg DEXILANT® prior to consumption of breakfast,
+lunch, dinner or an evening snack did not have an effect on dexlansoprazole exposure, or a
+clinically relevant effect on 24-hour intragastric pH control.6
+Special Populations and Conditions
+Pediatrics:
+In a study of 36 adolescents 12 to 17 years old with symptomatic GERD, dexlansoprazole
+pharmacokinetics (See Figure 3 and Table 5) were similar to those observed in healthy adults
+(See Figure 2 and Table 4).12 In adolescents, dexlansoprazole mean Cmax was 81% to 105% of the
+adult mean Cmax value, mean AUC was 78% to 88% of the adult mean AUC value, and mean CL/F
+was 112% to 132% of the adult mean CL/F value.
+Table 5: Mean (CV %) Pharmacokinetic Parameters in Adolescents 12
+to 17 Years of Age with Symptomatic GERD on Day 7 After
+Administration of DEXILANT® once daily for 7 days
+Dose
+(mg)
+30
+(N=17)
+60
+(N=18)
+
+Cmax
+(ng/mL)
+691
+(53%)
+1136
+(51%)
+
+AUCτ
+(ng·h/mL)
+2886
+(47%)
+5120
+(58%)
+
+CL/F
+(L/h)
+12.8
+(48%)
+15.3
+(49%)
+
+Note: area under the concentration-time curve during a dosing interval (AUCτ)
+
+DEXILANT® Product Monograph
+
+Page 18 of 38
+
+Figure 3:
+
+Mean Dexlansoprazole Plasma Concentration – Time Profile Following
+Administration of 30 or 60 mg DEXILANT® Capsules Once Daily for 7 Days in
+Adolescents 12 to 17 Years of Age with Symptomatic GERD
+
+The pharmacokinetics of dexlansoprazole in patients under the age of 12 years have not been
+studied.
+Geriatrics:
+In a study of 12 male and 12 female healthy subjects who received a single oral dose of
+DEXILANT® 60 mg, the terminal elimination half-life of dexlansoprazole was statistically
+significantly longer in geriatric subjects compared to younger subjects (2.23 and 1.5 hours,
+respectively). In addition, dexlansoprazole exhibited higher systemic exposure (AUC) in
+geriatric subjects (34.5% higher) than younger subjects. These differences were not clinically
+relevant. No dosage adjustment is necessary in geriatric patients (see WARNINGS AND
+PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Gender:
+In a study of 12 male and 12 female healthy subjects who received a single oral dose of
+DEXILANT® 60 mg, females had higher systemic exposure (AUC) (42.8% higher) than males.
+No dosage adjustment is necessary in patients based on gender.
+Hepatic Insufficiency:
+In a study of 12 patients with moderately impaired hepatic function who received a single oral
+dose of DEXILANT® 60 mg, plasma exposure (AUC) of bound and unbound dexlansoprazole in
+the hepatic impairment group was approximately 2 times greater compared to subjects with
+normal hepatic function. This difference in exposure was not due to a difference in protein
+binding between the two liver function groups. No adjustment for DEXILANT® is necessary for
+patients with mild hepatic impairment (Child-Pugh Class A). DEXILANT® 30 mg should be
+considered for patients with moderate hepatic impairment (Child-Pugh Class B). No studies have
+been conducted in patients with severe hepatic impairment (Child-Pugh Class C) (see
+WARNINGS AND PRECAUTIONS).
+DEXILANT® Product Monograph
+
+Page 19 of 38
+
+Renal Insufficiency:
+Dexlansoprazole is extensively metabolized in the liver to inactive metabolites, and no parent
+drug is recovered in the urine following an oral dose of dexlansoprazole. Therefore, the
+pharmacokinetics of dexlansoprazole are not expected to be altered in patients with renal
+impairment, and no studies were conducted in subjects with renal impairment (see WARNINGS
+AND PRECAUTIONS).
+STORAGE AND STABILITY
+Store at room temperature (15° to 30°C).
+DOSAGE FORMS, COMPOSITION AND PACKAGING
+DEXILANT® is supplied as a dual delayed release formulation in capsules for oral administration
+using Dual Delayed Release technology. The capsules contain dexlansoprazole in a mixture of two
+types of enteric-coated granules with different pH-dependent dissolution profiles. One type of granule
+is designed to release dexlansoprazole after the granules reach the proximal small intestine; the second
+type of granule is designed to release dexlansoprazole in the distal region of the small intestine,
+generally several hours later.
+DEXILANT® is available in two dosage strengths: 30 mg and 60 mg, per capsule. Each capsule
+contains enteric-coated granules consisting of dexlansoprazole and the following non-medicinal
+ingredients: colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose 2910, lowsubstituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer,
+polyethylene glycol 8000, polysorbate 80, sucrose, sugar spheres, talc, titanium dioxide, and
+triethyl citrate.
+The components of the capsule shell include the following non-medicinal ingredients:
+carrageenan, hypromellose and potassium chloride. Based on the capsule shell color, blue
+contains FD&C Blue No. 2 aluminum lake; gray contains black ferric oxide; and both contain
+titanium dioxide.
+DEXILANT® is provided in high-density polyethylene (HDPE) bottles in 90 count
+configurations. Each 30 mg capsule is opaque, blue and gray with TAP and “30” imprinted on
+the capsule and each 60 mg capsule is opaque, blue with TAP and “60” imprinted on the capsule.
+
+DEXILANT® Product Monograph
+
+Page 20 of 38
+
+PART II: SCIENTIFIC INFORMATION
+PHARMACEUTICAL INFORMATION
+Drug Substance
+Common name:
+
+Dexlansoprazole
+
+Chemical name:
+
+(+)-2-[(R)-{[3-methyl-4-(2,2,2-trifluoroethoxy)pyridin-2-yl]
+methyl} sulfinyl]-1H-benzimidazole
+
+Molecular formula
+and molecular mass: C16H14F3N3O2S
+
+369.36
+
+Structural formula:
+O
+
+H
+N
+
+N
+
+S
+N
+
+O
+
+CF3
+
+CH3
+
+Physicochemical properties:
+Dexlansoprazole is a white to nearly white crystalline powder which melts with
+decomposition at 140°C. Dexlansoprazole is the R-enantiomer of lansoprazole (a
+racemic mixture of the R- and S-enantiomers).
+Dexlansoprazole is freely soluble in dimethylformamide, methanol,
+dichloromethane, ethanol, and ethyl acetate; and soluble in acetonitrile; slightly
+soluble in ether; and very slightly soluble in water; and practically insoluble in
+hexane.
+Dexlansoprazole is stable when exposed to light. Dexlansoprazole is more stable
+in neutral and alkaline conditions than acidic conditions.
+CLINICAL TRIALS
+Studies in Adult Patients
+Healing of Erosive Esophagitis
+Two multi-center, double-blind, active-controlled, randomized, 8-week studies were conducted in
+patients with endoscopically confirmed erosive esophagitis.7 Severity of the disease was
+classified based on the Los Angeles Classification Grading System (Grades A-D). Patients were
+randomized to one of the following three treatment groups: DEXILANT® 60 mg daily,
+DEXILANT® 90 mg daily or lansoprazole 30 mg daily. A total of 4092 patients were enrolled
+and ranged in age from 18 to 90 years (median age 48 years) with 54% male. Race was
+distributed as follows: 87% Caucasian, 5% Black and 8% other. Based on the Los Angeles
+Classification, 71% of patients had Grades A and B erosive esophagitis (mild) and 29% of
+DEXILANT® Product Monograph
+
+Page 21 of 38
+
+patients had Grades C and D erosive esophagitis (moderate to severe) before treatment.
+By the life-table method of analysis DEXILANT® 60 mg healed 92.3% to 93.1% of patients
+versus 86.1% to 91.5% for lansoprazole 30 mg after 8 weeks of treatment. Non-inferiority was
+demonstrated in both studies. Statistical superiority was not established using log-rank tests.
+The crude rate estimates considered patients who did not have endoscopically documented healed
+erosive esophagitis and who discontinued prematurely as not healed. Based on crude rate
+estimates, healing rates at Week 4 (secondary) or Week 8 (primary) were higher for
+DEXILANT® than lansoprazole (Table 6). Treatment with DEXILANT® 60 mg was non-inferior
+to lansoprazole 30 mg at Week 8 in both studies. Statistical superiority of DEXILANT® 60 mg
+over lansoprazole 30 mg was established in the first study but was not replicated in the second
+study.
+Table 6: Erosive Esophagitis Healing Rates in Adults – All Grades
+Study Number Treatment Group Week 4
+of
+(Daily)
+%
+Patients
+Healed
+(N)
+1
+639
+DEXILANT® 60
+66.2
+mg
+656
+Lansoprazole 30 mg
+64.8
+®
+2
+657
+DEXILANT 60
+69.7
+mg
+648
+Lansoprazole 30 mg
+65.4
+
+Week 8
+%
+Healeda
+
+CI = Confidence interval
+a
+Primary efficacy endpoint by the crude rate method of analysis
+b
+Demonstrated non-inferiority to lansoprazole
+*Statistically significant
+
+85.3
+79.0
+86.9
+
+(95% CI) for the
+p-value
+Treatment Difference
+Week 8
+(DEXILANT® –
+Lansoprazole) at Week 8
+(2.17, 10.48)b
+0.004*
+(-1.45, 6.14)b
+
+0.234
+
+84.6
+
+The life-table healing rates at Week 8 for patients with moderate to severe erosive esophagitis
+were 88.9% and 74.5% for DEXILANT® 60 mg and lansoprazole 30 mg, respectively, in the first
+study. The difference was statistically significant (p=0.011). In the second study, the Week 8
+life-table healing rates were 87.6% and 87.7% for DEXILANT® 60 mg and lansoprazole 30 mg,
+respectively, and were not statistically significantly different.
+The crude healing rates at Week 8 for patients with moderate to severe erosive esophagitis are
+presented in Table 7.
+Table 7: Healing Rates at Week 8 – Moderate to Severe Erosive Esophagitis in Adults
+Study
+Number of
+Treatment Group
+Week 8
+p-value
+Patients (N)
+(Daily)
+% Healeda
+1
+182
+DEXILANT® 60 mg
+79.7
+0.002*
+200
+Lansoprazole 30 mg
+65.0
+2
+194
+DEXILANT® 60 mg
+77.8
+0.768
+190
+Lansoprazole 30 mg
+78.9
+DEXILANT® Product Monograph
+
+Page 22 of 38
+
+Healing rates are by the crude rate method of analysis
+* Statistically significant
+a
+
+DEXILANT® 90 mg was studied and did not provide additional clinical benefit over
+DEXILANT® 60 mg.
+Maintenance of Healed Erosive Esophagitis
+A multi-center, double-blind, placebo-controlled, randomized study was conducted in patients
+who successfully completed a erosive esophagitis study and showed endoscopically confirmed
+healed erosive esophagitis.8 Maintenance of healing and symptom relief over a six-month period
+were evaluated with DEXILANT® 30 mg or 60 mg once daily compared to placebo. A total of
+445 patients were enrolled and ranged in age from 18 to 85 years (median age 49 years), with
+52% female. Race was distributed as follows: 90% Caucasian, 5% Black and 5% other.
+By the life-table method, DEXILANT® 30 mg and 60 mg demonstrated statistically significantly
+higher rates of maintenance of healed erosive esophagitis (74.9% and 82.5%, respectively) than
+placebo (27.2%) at Month 6 (p<0.00001).
+Based on crude rate estimates, 66.4% percent of patients treated with 30 mg or 60 mg of
+DEXILANT® remained healed over the six-month time period versus 14.3% of placebo patients
+(p<0.00001) (Table 8).
+Table 8: Maintenance Ratesa of Healed EE in Adults at Month 6
+
+a
+
+Number of
+Patients
+(N)b
+125
+119
+
+Treatment Group
+(daily)
+DEXILANT® 30 mg
+Placebo
+
+Maintenance Rate
+(%)
+66.4*
+14.3
+
+Based on crude rate estimates, patients who did not have endoscopically documented relapse
+and prematurely discontinued were considered to have relapsed.
+b
+Patients with at least one post baseline endoscopy
+*
+Statistically significant vs. placebo
+
+For patients with more severe grades of erosive esophagitis (Grades C or D) before healing,
+DEXILANT® 30 mg and 60 mg also achieved statistically significantly higher 6-month
+maintenance rates than placebo by the life-table method. For the crude rate analysis, the trends in
+the results were similar to the life-table analysis.
+DEXILANT® 30 mg and 60 mg achieved statistically significantly (p<0.00001) greater
+percentages of 24-hour heartburn-free periods, and heartburn free nights during the study
+treatment period, compared to placebo (see Tables 9 and 10).
+Table 9: Median Percentage of 24-Hour Heartburn-Free Periods of the Maintenance of
+Healed EE Study in Adults
+Treatment Group (daily)
+N
+Heartburn-Free 24-hour Periods (Median %)
+DEXILANT® 30 mg
+132
+96.1*
+DEXILANT® 60 mg
+DEXILANT® Product Monograph
+
+147
+
+90.9*
+Page 23 of 38
+
+*
+
+Placebo
+
+141
+
+statistically significant vs. placebo (p<0.00001)
+
+28.6
+
+Table 10: Median Percentage of Nighttime Heartburn-Free Periods of the Maintenance of
+Healed EE Study in Adults
+Treatment Group (daily)
+N
+Heartburn-Free Nights (Median %)
+®
+DEXILANT 30 mg
+132
+98.9*
+
+*
+
+DEXILANT® 60 mg
+Placebo
+
+147
+140
+
+statistically significant vs. placebo (p<0.00001)
+
+96.2*
+71.7
+
+In a second study (N=451) of DEXILANT® 60 mg and 90 mg versus placebo, DEXILANT® 60
+mg showed similar results to the first study in the maintenance of healed erosive esophagitis and
+heartburn relief. DEXILANT® 90 mg did not provide additional clinical benefit over
+DEXILANT® 60 mg.
+Symptomatic GERD
+A multi-center, double-blind, placebo-controlled, randomized, 4-week study was conducted in
+patients with a diagnosis of symptomatic GERD made primarily by presentation of symptoms.9
+These patients who identified heartburn as their primary symptom, had a history of heartburn for
+6 months or longer, had heartburn on at least 4 of 7 days immediately prior to randomization and
+had no esophageal erosions as confirmed by endoscopy. However, patients with symptoms
+which were not acid-related may not have been excluded using these inclusion criteria. Patients
+were randomized to one of the following treatment groups: DEXILANT® 30 mg daily, 60 mg
+daily, or placebo. A total of 947 patients were enrolled and ranged in age from 18 to 86 years
+(median age 48 years) with 71% female. Race was distributed as follows: 82% Caucasian, 14%
+Black and 4% other.
+DEXILANT® 30 mg provided statistically significantly greater percent of days with heartburnfree 24-hour periods and percent of nights without heartburn over placebo as assessed by daily
+diary over 4 weeks (Table 11). DEXILANT® 60 mg was studied and provided no additional
+clinical benefit over DEXILANT® 30 mg.
+Table 11: Median Percentages of Heartburn Relief During the 4 Week
+Treatment Period of the Symptomatic GERD Study in Adults
+Heartburn-Free
+Nights without
+N
+Treatment Group
+24-Hour Periods
+Heartburn
+(daily)
+(%)
+(%)
+312
+DEXILANT® 30
+54.9*
+80.8*
+mg
+310
+Placebo
+18.5
+51.7
+
+* Statistically significant vs. placebo, p<0.00001
+
+A higher percentage of patients on DEXILANT® 30 mg had heartburn-free 24-hour periods
+compared to placebo through 4 weeks of treatment.
+
+DEXILANT® Product Monograph
+
+Page 24 of 38
+
+Studies in Pediatric Patients
+Healing of EE, Maintenance of Healed EE and Relief of Heartburn: Adolescents 12 to 17
+Years of Age
+In a multi-center, 24-week study, 62 adolescents 12 to 17 years of age with a documented history
+of GERD for at least 3 months and endoscopically-proven EE were treated with dexlansoprazole
+60 mg capsule once daily, for 8 weeks (single-arm open-label healing phase), followed by a 16week maintenance phase (randomized double-blind placebo-controlled).13 The median age was
+15 years with males accounting for 61% of the patients. Based on the Los Angeles Classification
+Grading Scale, 96.8% of the EE patients had mild EE (Grades A and B), and 3.2% of patients had
+moderate to severe EE (Grades C and D) before treatment. Among the 62 patients enrolled in the
+healing phase, 58 patients completed the 8-week treatment, with 51 (82.3% out of 62) patients
+achieving EE healing by week 8. This corresponds to 87.9% of the 58 patients who completed the
+8-week treatment.
+After the initial 8 weeks of treatment, 51 patients with endoscopically confirmed healed EE were
+randomized to receive dexlansoprazole 30 mg capsule or placebo once daily for an additional 16
+weeks, in order to assess the maintenance of EE healing. A total of 38 patients completed the
+maintenance phase. Eighty-two percent (81.8%) of patients treated with dexlansoprazole 30 mg
+capsule remained healed over the four-month treatment period as confirmed by endoscopy. The
+rate was 58.3% in patients treated with placebo (see Table 12).
+Table 12: Maintenance of Healed EE After 16 weeks in Adolescents 12 to
+17 Years of Age
+N
+Treatment Group (daily)
+Maintenance Rate (%)
+®
+22
+DEXILANT 30 mg
+81.8
+24
+Placebo
+58.3
+During the 16-week maintenance period, median percentage of 24-hour heartburn-free periods
+were 86.6% for those receiving dexlansoprazole 30 mg capsule compared to 68.1% for those
+receiving placebo.
+Symptomatic Non-Erosive GERD: Adolescents 12 to 17 Years of Age
+In a single-arm uncontrolled, open-label, multi-center study, 104 adolescents 12 to 17 years of
+age with symptomatic non-erosive GERD were treated with dexlansoprazole 30 mg capsule once
+daily, for 4 weeks.14 Patients had a documented history of GERD symptoms for at least 3 months
+prior to screening, reported heartburn on at least three out of seven days during screening, and no
+esophageal erosions as confirmed by endoscopy. Patients ranged in age from 12 to 17 years
+(median age 15 years) with females accounting for 70% of the patients. During the 4-week
+treatment period, the median percentage of 24-hour heartburn free periods was 47.3%.
+Overall, the efficacy results for healing of EE, maintenance of healed EE, and symptomatic nonerosive GERD in adolescents 12 to 17 years of age as enrolled in the studies did not appear to be
+substantially different from those reported in adults.
+
+DEXILANT® Product Monograph
+
+Page 25 of 38
+
+DETAILED PHARMACOLOGY
+Animal Pharmacology
+Pharmacodynamics
+Gastric Acid Secretion Effects in Rats and Dogs
+Five studies compared the effect of dexlansoprazole on basal and stimulated gastric acid secretion
+in pylorus-ligated Sprague-Dawley (SD) male rats with those of lansoprazole. In all five studies,
+dexlansoprazole was more potent than lansoprazole in the suppression of gastric acid secretion.
+In studies of basal secretion, histamine 2HCl-, bethanechol chloride-, pentagastrin- and
+2-deoxy-D-glucose-stimulated secretion, lansoprazole demonstrated potency values which were
+63, 50, 83, 31 and 63%, respectively, of those seen with dexlansoprazole.
+One study compared the effect of dexlansoprazole on histamine-stimulated gastric acid secretion
+in Heidenhain pouch male dogs with those of lansoprazole. Lansoprazole was less potent and
+demonstrated a potency value which was 45% of that seen with dexlansoprazole.
+Effects on Alimentary Tract Injury in Rats
+Three studies compared the effect of dexlansoprazole on the formation of alimentary tract injury
+in male SD rats with those of lansoprazole. In all three studies, dexlansoprazole was more potent
+than lansoprazole in suppression of lesion formation. In studies examining indomethacininduced gastric mucosal lesions, mepirizole-induced duodenal mucosal lesions and reflux
+esophagitis, lansoprazole demonstrated potency values which were 30, 29 and 37%, respectively,
+of those seen with dexlansoprazole.
+Pharmacokinetics
+An in situ experiment was performed using surgically modified rats to explore the
+gastrointestinal sites of dexlansoprazole absorption. Five segments of the digestive tract (the
+stomach, the upper, middle and lower small intestine, and the large intestine) were isolated by
+ligation, and [14C]dexlansoprazole was directly injected into the isolated segments. Blood
+samples were collected post-dose, and total radioactivity in the plasma was determined.
+Resulting plasma total radioactivity concentration-time curves were similar across all segments of
+the intestine, indicating similar absorption from each of the segments. In contrast, plasma total
+radioactivity concentrations in rats given an intragastric injection of [14C]dexlansoprazole were
+very low. Together these results suggest that oral doses of dexlansoprazole were well absorbed
+from the small and large intestine of the rat, whereas relatively little was absorbed from the
+stomach.
+Following the administration of [14C]dexlansoprazole to pigmented (Long Evans) and
+non-pigmented (Sprague-Dawley) rats, [14C]dexlansoprazole derived radioactivity was widely
+and rapidly distributed to most tissues and organs. Maximum concentrations of
+[14C]dexlansoprazole derived radioactivity were obtained within 0.5 hour after dosing in nearly
+all tissues tested. In non-pigmented rats, the highest [14C]dexlansoprazole derived radioactivity
+concentrations were found in the stomach, liver, intestine, thyroid and kidney. Total radioactivity
+DEXILANT® Product Monograph
+
+Page 26 of 38
+
+concentrations in all other tissues tested were generally similar to or less than those in plasma at
+the same time point. By 24 hours post dose, total radioactivity levels decreased to low levels in
+all tissues of the non–pigmented rats, with the exception of the thyroid which remained relatively
+high. In pigmented rats, radioactivity was generally preferentially distributed into organs of
+elimination. The tissues showing the highest concentrations of radioactivity, excluding the
+gastrointestinal tract, were liver, thyroid, renal cortex, urinary bladder, kidney, renal medulla, and
+uveal tract. Lingering radioactivity concentrations in the uveal tract suggests that
+[14C]dexlansoprazole derived radioactivity binds to melanin.
+Dexlansoprazole was metabolized to its inactive metabolites via oxidation, reduction, and
+subsequent formation of sulfate, glucuronide and glutathione conjugates. Dexlansoprazole was
+extensively metabolized by both rats and dogs, but some differences in metabolic patterns were
+observed between the species, most notably in the plasma and urine. Dexlansoprazole was a
+major component in both rat and dog plasma metabolic profiles at early time points. 5Sulfonyloxy dexlansoprazole sulfide was a major component in the plasma of both male and
+female rats, as well as 4-glucuronyloxy dexlansoprazole sulfide in the male rats. In dog plasma,
+dexlansoprazole sulfone, 5-glucuronyloxy dexlansoprazole and 5-glucuronyloxy dexlansoprazole
+sulfone were the major metabolites. Glutathione-derived conjugates were the major metabolites
+in rat urine, whereas dexlansoprazole derived glucuronides and sulfates were the major
+metabolites in dog urine. 5-Hydroxy dexlansoprazole sulfide (M-IV) was the major component
+in fecal metabolic profiles, and dexlansoprazole derived glucuronides and sulfates accounted for
+the majority of the radioactive peaks in the biliary metabolic profiles from both rats and dogs.
+Following administration of a [14C]dexlansoprazole dose, fecal excretion was the main route of
+elimination in rats and dogs. Approximately 69% to 81% and 53% to 83% of the administered
+radioactive dose was recovered in the feces of rats and dogs, respectively. Biliary excretion of
+total radioactivity following oral administration of [14C]dexlansoprazole to male and female bile
+duct cannulated rats and dogs averaged approximately 51% and 45 to 63% of the administered
+dose, respectively, within 96 hours post-dose. Dexlansoprazole derived glucuronides and sulfates
+accounted for the majority of the radioactivity excreted into the bile of both rats and dogs.
+Urinary recovery of [14C]dexlansoprazole derived radioactivity ranged from approximately 15%
+to 25% in rats, and 13% to 30% in dogs. Glutathione-derived conjugates were the major
+metabolites in rat urine, whereas dexlansoprazole derived glucuronides and sulfates were the
+major metabolites in dog urine. No unchanged parent drug was measurable in the urine, feces or
+bile of rats or dogs.
+Human Pharmacology
+Serum Gastrin Effects
+The effect of DEXILANT® on serum gastrin concentrations was evaluated in approximately 3460
+patients in clinical trials up to 8 weeks and in 1025 patients for up to 6 to 12 months. The mean
+fasting gastrin concentrations increased from baseline during treatment with DEXILANT® 30 mg
+and 60 mg doses. In general, in patients treated for more than 6 months, mean serum gastrin
+levels increased during approximately the first 3 months of treatment and were stable for the
+remainder of treatment. Mean serum gastrin levels returned to pre-treatment levels within one
+month of discontinuation of treatment.
+
+DEXILANT® Product Monograph
+
+Page 27 of 38
+
+Enterochromaffin-Like Cell (ECL) Effects
+There were no reports of ECL cell hyperplasia in gastric biopsy specimens obtained from 857
+patients treated with DEXILANT® 30 mg, 60 mg or 90 mg for up to 12 months. See
+TOXICOLOGY, Carcinogenicity.
+Effect on Cardiac Repolarization
+A study was conducted to assess the potential of DEXILANT® to prolong the QT/QTc interval in
+healthy adult subjects.10 DEXILANT® doses of 90 mg or 300 mg did not delay cardiac
+repolarization compared to placebo. The positive control (moxifloxacin) produced statistically
+significantly greater mean maximum and time-averaged QT/QTc intervals compared to placebo.
+Effect of Co-administration with Clopidogrel
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19. A study of healthy
+subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of
+clopidogrel 75 mg alone or concomitantly with DEXILANT® 60 mg (n=40), for 9 days was
+conducted. The mean AUC of the active metabolite of clopidogrel was reduced by approximately
+9% (mean AUC ratio was 91%, with 90% CI of 86-97%) when DEXILANT® was
+coadministered compared to administration of clopidogrel alone.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition
+of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to
+clopidogrel active metabolite. The clinical significance of this finding is not clear.
+TOXICOLOGY
+Multi-dose Studies
+A thirteen-week oral toxicity study was conducted in Wistar rats. Animals were administered 5,
+15 or 50 mg/kg/day of dexlansoprazole or 50 mg/kg/day of lansoprazole. Pharmacologically
+related increases in stomach weight were observed for all doses of dexlansoprazole and
+lansoprazole. The only histological findings attributed to test article treatment were eosinophilia
+of chief cells in the stomach at 15 and 50 mg/kg/day of dexlansoprazole and 50 mg/kg/day of
+lansoprazole, and slight centrilobular hepatocyte hypertrophy in the liver at 50 mg/kg/day of
+dexlansoprazole and lansoprazole.
+In a thirteen-week oral toxicity study in dogs, animals were administered 5, 15 or 50 mg/kg/day
+of dexlansoprazole or 50 mg/kg/day of lansoprazole. Systemic exposure to dexlansoprazole
+generally was higher in animals dosed with dexlansoprazole at 50 mg/kg/day than with the same
+dosage of lansoprazole. The effects of dexlansoprazole and lansoprazole administered at 50
+mg/kg/day were essentially the same. Pharmacologically related increases in stomach weight
+were observed at 15 and 50 mg/kg/day dexlansoprazole and lansoprazole 50 mg/kg/day. The
+only histological findings attributed to test article treatment were parietal cell vacuolation and/or
+single cell necrosis and slight accumulation of bile in hepatocellular canaliculi.
+The no-observed-adverse-effect-level (NOAEL) of dexlansoprazole was 15 mg/kg/day in rats and
+5 mg/kg/day in dogs.
+
+DEXILANT® Product Monograph
+
+Page 28 of 38
+
+Carcinogenicity
+Lansoprazole is a racemic mixture of R- and S-enantiomers. Following administration of
+lansoprazole in humans and animals, the major component circulating in plasma is
+dexlansoprazole, the R-enantiomer of lansoprazole.4 Therefore, the carcinogenic potential of
+dexlansoprazole was assessed using existing lansoprazole studies. In two 24-month
+carcinogenicity studies, Sprague-Dawley rats were treated orally with lansoprazole at doses of 5
+to 150 mg/kg/day, about 1 to 40 times the exposure on a body surface (mg/m2) basis of a 50 kg
+person of average height (1.46 m2 BSA) given the recommended human dose of lansoprazole of
+30 mg/day (22.2 mg/m2). Lansoprazole produced dose-related gastric ECL cell hyperplasia and
+ECL cell carcinoids in both male and female rats (see DETAILED PHARMACOLOGY, Human
+Pharmacology).
+In rats, lansoprazole also increased the incidence of intestinal metaplasia of the gastric epithelium
+in both sexes. In male rats, lansoprazole produced a dose-related increase of testicular interstitial
+cell adenomas. The incidence of these adenomas in rats receiving doses of 15 to 150 mg/kg/day
+(4 to 40 times the recommended lansoprazole human dose based on BSA) exceeded the low
+background incidence (range = 1.4 to 10%) for this strain of rat. Testicular interstitial cell
+adenoma also occurred in 1 of 30 rats treated with 50 mg lansoprazole/kg/day (13 times the
+recommended lansoprazole human dose based on BSA) in a 1-year toxicity study.
+In a 24-month carcinogenicity study, CD-1 mice were treated orally with lansoprazole doses of
+15 mg to 600 mg/kg/day, 2 to 80 times the recommended human dose based on BSA.
+Lansoprazole produced a dose-related increased incidence of gastric ECL cell hyperplasia.
+Lansoprazole also induced a low, non-dose-related incidence of carcinoid tumors in the gastric
+mucosa in several dose groups (one female mouse in the 15 mg/kg/day group, one male mouse in
+the 150 mg/kg/day group, and 2 males and 1 female in the 300 mg/kg/day group). It also
+produced an increased incidence of liver tumors (hepatocellular adenoma plus carcinoma). The
+tumor incidences in male mice treated with 300 mg and 600 mg lansoprazole/kg/day (40 to 80
+times the recommended lansoprazole human dose based on BSA) and female mice treated with
+150 mg to 600 mg lansoprazole/kg/day (20 to 80 times the recommended human dose based on
+BSA) exceeded the ranges of background incidences in historical controls for this strain of mice.
+Lansoprazole treatment produced adenoma of rete testis in male mice receiving 75 to 600
+mg/kg/day (10 to 80 times the recommended lansoprazole human dose based on BSA).
+Mutagenicity
+Dexlansoprazole was positive in the Ames test. In an in vitro chromosome aberration test using
+Chinese hamster lung cells, dexlansoprazole was judged positive (equivocal) because the
+percentage of affected cells increased slightly but did not reach the pre-set criteria for a positive
+response. Dexlansoprazole was negative in the in vivo mouse micronucleus test.
+Reproduction and Teratology
+An embryo-fetal toxicity study conducted in pregnant rabbits at oral dexlansoprazole doses up to
+30 mg/kg/day (approximately 9-fold the maximum recommended human dexlansoprazole dose
+[60 mg] based on BSA) showed that exposure increased with dosage, and there were no
+substantive differences in the toxic effects of dexlansoprazole and lansoprazole. Dams treated
+with both test articles experienced transient effects on food consumption, body weights and fecal
+volume. No adverse effects on reproductive parameters nor test article-related fetal abnormalities
+DEXILANT® Product Monograph
+
+Page 29 of 38
+
+occurred with either test article. The incidence of unossified talus was increased at 30 mg/kg/day
+of dexlansoprazole and lansoprazole. The dexlansoprazole NOAEL for general toxicity in the
+dams was 3 mg/ kg/day. For reproductive toxicity, the NOAEL was greater than or equal to 30
+mg/kg/day. For embryo-fetal development, the NOAEL was 10 mg/kg.
+Reproduction studies performed in pregnant rats with oral lansoprazole at doses up to 150
+mg/kg/day (40 times the recommended human dose based on BSA) and in pregnant rabbits at
+oral lansoprazole doses up to 30 mg/kg/day (16 times the recommended human dose based on
+BSA) revealed no evidence of impaired fertility or harm to the fetus due to lansoprazole.
+Juvenile Animal Toxicity Data
+In a juvenile rat study, adverse effects on bone growth and development and heart valves were
+observed at lansoprazole doses higher than the maximum recommended equivalent human dose.
+An eight-week oral toxicity study with a four-week recovery phase was conducted in juvenile rats
+with lansoprazole administered from postnatal Day 7 (age equivalent to neonatal humans)
+through 62 (age equivalent to approximately 14 years in humans) at doses of 40 to 500
+mg/kg/day.
+Heart valve thickening occurred at a lansoprazole dose of 500 mg/kg/day (approximately three to
+five times the expected dexlansoprazole exposure based on AUC in pediatric patients less than 12
+years of age). Heart valve thickening was not observed at the next lower dose (250 mg/kg/day)
+and below. The findings trended towards reversibility after a four-week drug-free recovery
+period.
+No effects on heart valves were observed in a 13-week intravenous toxicity study of lansoprazole
+in adolescent rats (approximately 12 years human age equivalence) at systemic exposures similar
+to those achieved in the eight-week oral toxicity study in juvenile (neonatal) rats.
+In the eight-week oral toxicity study of lansoprazole, doses equal to or greater than 100
+mg/kg/day produced delayed growth, with impairment of weight gain observed as early as
+postnatal Day 10 (age equivalent to neonatal humans). At the end of treatment, the signs of
+impaired growth at 100 mg/kg/day and higher included reductions in body weight (14% to 44%
+compared to controls), absolute weight of multiple organs, femur weight, femur length and
+crown-rump length. Femoral growth plate thickness was reduced only in males and only at the
+500 mg/kg/day dose. The effects related to delayed growth persisted through the end of the 4week recovery period. Longer term data were not collected.
+In a follow-up developmental toxicity study, juvenile rats (12 rats per dose group) were orally
+administered with 250 and/or 500 mg/kg/day lansoprazole for four or eight weeks starting on
+postnatal Day (PND) 7 (age equivalent to neonatal humans), PND 14 (age equivalent to
+approximately one year in humans), or PND 21 (age equivalent to approximately two years in
+humans).
+Signs of toxicity (lower mean body weight gain and heart valve thickening) were observed in
+almost all dose groups of juvenile rats. Incidences of heart valve thickening were 2/12, 5/12 and
+0/12, respectively, in juvenile rats dosed starting at ages 7, 14, and 21 day with 500 mg/kg/day
+lansoprazole for 4 weeks. Heart valve thickening in animals dosed with 500 mg/kg/days
+lansoprazole for eight weeks starting at PND 7, 14, and 21 were 2/12, 7/12, and 1/12,
+respectively.
+DEXILANT® Product Monograph
+
+Page 30 of 38
+
+Due to high incidence of mortality (9 of 24 males were found dead and 12 of 24 males were
+euthanized between PND 18 and PND 21) in the 500 mg/kg/day dose group starting at PND 14,
+dose level for this group was changed from 500 mg/kg/day to 250 mg/kg/day. Incidences of heart
+valve thickening in juvenile rats dosed with 250 mg/kg/day (approximately two times the
+expected dexlansoprazole exposure based on AUC in pediatric patients less than 12 years of age)
+starting at PND 14 were two (2/12) and one (1/11) for four weeks and eight weeks exposures,
+respectively. Incidences of the heart valve thickening were observed in almost all dose groups.
+Juvenile rats younger than PND 21 (age equivalent to approximately two years in humans) were
+more sensitive to the development of heart valve thickening.
+The relevance of heart valve thickening in these studies to pediatric patients less than 12 years of
+age is unknown. These findings are not relevant for patients 12 years of age and older.
+
+DEXILANT® Product Monograph
+
+Page 31 of 38
+
+REFERENCES
+1. Vakily M. Lee RD. Wu J. Gunawardhana L. Mulford D. Drug interaction studies with
+dexlansoprazole modified release (TAK-390MR), a proton pump inhibitor with a dual
+delayed-release formulation: results of four randomized, double-blind, crossover, placebocontrolled, single-centre studies. Clin Drug Invest. 2009; 29:35-50.
+2. Vakily M. Zhang W. Wu J. Atkinson SN. Mulford D. Pharmacokinetics and
+pharmacodynamics of a known active PPI with a novel Dual Delayed Release technology,
+dexlansoprazole MR: a combined analysis of randomized controlled clinical trials. Curr Med
+Res Opin. 2009; 25:627-638.
+3. Metz DC, Vakily M, Dixit T, Mulford D. Review article: dual delayed release formulation of
+dexlansoprazole MR, a novel approach to overcome the limitations of conventional single
+release proton pump inhibitor therapy. Alimen Pharmacol Ther. 2009; 29(9): 928-937.
+4. Katsuki H, Yagi H, Arimori K, Nakano M, Fujiyama S, et al. Determination of R(+)- and
+S(-)-lansoprazole using chiral stationary-phase liquid chromatography and their
+enantioselective pharmacokinetics in humans. Pharma Res. 1996; 13:611-615.
+5. Lee RD, Vakily M, Mulford D, Wu J, Atkinson SN. Clinical trial: the effect and timing of
+food on the pharmacokinetics and pharmacodynamics of dexlansoprazole MR, a novel Dual
+Delayed Release formulation of a proton pump inhibitor--evidence for dosing flexibility.
+Alimen Pharmacol Ther. 2009; 29:824-833.
+6. Lee RD, Mulford D, Wu J, Atkinson SN. The effect of time-of-day dosing on the
+pharmacokinetics and pharmacodynamics of dexlansoprazole MR: evidence for dosing
+flexibility with a Dual Delayed Release proton pump inhibitor. Alimen Pharmacol Ther.
+2010; 9:1001-1011.
+7. Sharma P, Shaheen NJ, Perez MC, Pilmer BL, Lee M, Atkinson SN. Peura D. Clinical trials:
+healing of erosive oesophagitis with dexlansoprazole MR, a proton pump inhibitor with a
+novel dual delayed-release formulation--results from two randomized controlled studies.
+Alimen Pharmacol Ther. 2009; 29:731-741.
+8. Metz DC, Howden CW, Perez MC, Larsen L, O'Neil J, Atkinson SN. Clinical trial:
+dexlansoprazole MR, a proton pump inhibitor with dual delayed-release technology,
+effectively controls symptoms and prevents relapse in patients with healed erosive
+oesophagitis. Alimen Pharmacol Ther. 2009; 29:742-754.
+9. Fass R, Chey WD, Zakko SF, Andhivarothai N, Palmer RN, Perez MC, Atkinson SN.
+Clinical trial: the effects of the proton pump inhibitor dexlansoprazole MR on daytime and
+nighttime heartburn in patients with nonerosive reflux disease. Alimen Pharmacol Ther.
+2009; 29:1261-1272.
+10. Vakily M, Wu JT, Atkinson SN. Lack of Electrocardiographic Effect of Dexlansoprazole
+MR, a Novel Modified-Release Formulation of the Proton Pump Inhibitor Dexlansoprazole,
+in Healthy Subjects. J Clin Pharmacol. (in press 2009).
+
+DEXILANT® Product Monograph
+
+Page 32 of 38
+
+11. Frelinger AL III, Lee RD, Mulford DJ, Wu JT, Nudurupati S, Nigam A, Brooks JK, Bhatt
+DL, Michelson AD. A randomized, 2-period, crossover design study to assess the effects
+of dexlansoprazole, lansoprazole, esomeprazole and omeprazole on the steady-state
+pharmacokinetics and pharmacodynamics of clopidogrel in healthy volunteers, J Am Coll
+Cardiol 2012;59(14):1304-11. Supplementary Online
+Appendix http://www.sciencedirect.com/science/article/pii/S073510971200246X
+12. Kukulka M, Wu J, Perez MC. Pharmacokinetics and safety of dexlansoprazole MR in
+adolescents with symptomatic GERD. J Pediatr Gastroenterol Nutr. 2012; 54:41–47.
+13. Gremse D, Gold BD, Pilmer B, Hunt B, Korczowski B, Perez MC. Dual Delayed-Release
+dexlansoprazole for healing and maintenance of healed erosive esophagitis: a safety study
+in adolescents. Dig Dis Sci. 2019; 64(2):493-502.
+14. Gold BD, Pilmer B, Kierkus J, Hunt B, Perez MC, Gremse D. Dexlansoprazole for
+heartburn relief in adolescents with symptomatic, nonerosive gastro-esophageal reflux
+disease. Dig Dis Sci. 2017; 62(11):3059–3068.
+
+DEXILANT® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. and used under
+licence by Takeda Canada Inc.
+
+DEXILANT® Product Monograph
+
+Page 33 of 38
+
+PART III: PATIENT MEDICATION INFORMATION
+READ THIS FOR SAFE AND EFFECTIVE USE OF YOUR MEDICINE
+PrDEXILANT®
+
+(dexlansoprazole) delayed release capsules
+Read this carefully before you start taking DEXILANT® and each time you get a refill. This
+leaflet is a summary and will not tell you everything about this drug. Talk to your healthcare
+professional about your medical condition and treatment and ask if there is any new information
+about DEXILANT®.
+What is DEXILANT® used for?
+DEXILANT® is used in people 12 years of age and older to:
+• help heal the throat.
+o damaged by acid backing up from the stomach to the throat (erosive reflux
+esophagitis).
+o help maintain the healed throat.
+• relieve symptoms of non-erosive gastroesophageal reflux disease (GERD) such as:
+o heartburn during the day and night.
+o the burning, burping and sour taste.
+How does DEXILANT® work?
+DEXILANT® is a medicine called a proton pump inhibitor (PPI). PPIs reduce the amount of acid
+your stomach makes.
+DEXILANT® capsules contain two different types of granules, tiny dissolving beads that release
+medicine. The first granule begins releasing medicine within 1 hour. The rest of the medicine is
+released 4-5 hours later, so the medicine continues to work later in the day.
+What are the ingredients in DEXILANT®?
+Medicinal ingredients: dexlansoprazole.
+Non-medicinal ingredients:
+Capsule granules: colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose 2910,
+low-substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid
+copolymer, polyethylene glycol 8000, polysorbate 80, sucrose, sugar spheres, talc,
+titanium dioxide, and triethyl citrate.
+Capsule shell: carrageenan, hypromellose, and potassium chloride.
+Capsule shell color: blue contains FD&C Blue No.2 aluminum lake; gray contains black
+ferric oxide; and both contain titanium dioxide.
+DEXILANT® comes in the following dosage forms:
+• Capsules, 30 mg or 60 mg.
+Do not use DEXILANT® if:
+• you are allergic to DEXILANT® or any of its ingredients. (See What are the ingredients
+DEXILANT® Product Monograph
+
+Page 34 of 38
+
+•
+
+in DEXILANT®?).
+you are currently taking a medication called rilpivirine
+
+To help avoid side effects and ensure proper use, talk to your healthcare professional before
+you take DEXILANT®. Talk about any health conditions or problems you may have,
+including if you:
+• are taking other medications. (See The following may interact with DEXILANT®).
+• have liver problems.
+• are pregnant, or planning to become pregnant.
+• are breastfeeding or planning to breastfeed.
+• have signs of low magnesium in the body (hypomagnesemia) with symptoms such as:
+- rapid or irregular heartbeat (palpitations).
+- brain symptoms such as dizziness, seizures.
+- muscle symptoms such as twitching, cramps, spasms (tetany).
+• are due to have a specific blood test (Chromogranin A).
+Other warnings you should know about:
+DEXILANT® may help your acid-related symptoms. However, you could still have serious
+stomach problems. Talk to your doctor if your symptoms continue.
+You should take DEXILANT® exactly as prescribed. You will use the lowest dose and shortest
+time suitable for your condition. Talk to you doctor if you have any concerns about your
+treatment.
+Depending on your condition, your doctor may tell you to use this type of medicine (proton pump
+inhibitors) for a longer period.
+Using proton pump inhibitors for a long time (every day for a year or longer) may increase risks
+of broken bones of the hip, wrist or spine. Talk to your doctor about this risk.
+Long term use of proton pump inhibitors may interfere with the absorption of Vitamin B12 from
+the diet. This may cause a shortage of Vitamin B12 in your body. Talk to your doctor.
+Using DEXILANT® for a long period of time may cause a growth in your stomach (polyp),
+especially after one year.
+Tell your healthcare professional about all the medicines you take, including any drugs,
+vitamins, minerals, natural supplements or alternative medicines.
+The following may interact with DEXILANT®:
+- ampicillin.
+- atazanavir.
+- nelfinavir.
+- saquinavir/ritonavir.
+- digoxin.
+
+-
+
+iron salts.
+ketoconazole.
+warfarin.
+tacrolimus.
+theophylline.
+methotrexate.
+
+How to take DEXILANT®:
+• Do not crush or chew capsules or granules.
+DEXILANT® Product Monograph
+
+Page 35 of 38
+
+•
+
+Take DEXILANT® at any time of day, with or without food. By either:
+• Swallowing capsule whole, with water.
+• Or, if you have trouble swallowing capsules, the capsules can be opened and taken with
+applesauce or water, as follows:
+
+Applesauce:
+DEXILANT® capsules can be opened and the contents sprinkled on a tablespoon of
+applesauce. Swallow immediately. Granules should not be chewed.
+Water with an Oral Syringe:
+1. Open the capsule and empty the granules into a clean container with 20 mL of water.
+2. Draw up the water and granules mixture into an oral syringe.
+3. Swirl the syringe gently, and give the mixture into the mouth right away. Do not save the
+water and granule mixture for later use.
+4. Refill the syringe with 10 mL of water, and swirl gently. Give the water into the mouth.
+5. Repeat step 4.
+Water through a Nasogastric Tube: If you have a nasogastric tube (size 16 French or larger)
+1. Open the capsule and empty the granules into a clean container with 20 mL of water.
+2. Draw up the water and granules mixture into a catheter-tip syringe.
+3. Swirl the syringe gently and connect the syringe to the nasogastric tube. Right away, give
+the mixture through the nasogastric tube into the stomach. Do not save the water and
+granule mixture for later use.
+4. Refill the syringe with 10 mL of water, swirl gently, and flush the nasogastric tube with
+water.
+5. Repeat step 4.
+Usual dose:
+The recommended dose is not the same for all conditions. Your doctor will have told you what
+dose to take for your condition. Follow your doctor’s directions carefully.
+Condition
+Healing of erosive
+esophagitis.
+Maintaining healed
+erosive esophagitis.
+Symptoms of non-erosive
+GERD.
+
+Adult or
+Adolescent Dose
+60 mg.
+
+How Often
+
+For How Long
+
+Once daily.
+
+Up to 8 weeks.
+
+30 to 60 mg.
+
+Once daily.
+
+30 mg.
+
+Once daily.
+
+Adults: Up to 6 months.
+Adolescents aged 12 to 17:
+Up to 4 months.
+4 weeks.
+
+Overdose:
+If you think you have taken too much DEXILANT®, contact your healthcare professional,
+DEXILANT® Product Monograph
+
+Page 36 of 38
+
+hospital emergency department or regional Poison Control Centre immediately, even if there are
+no symptoms.
+Missed Dose:
+If you miss a dose, take it as soon as you remember. If it is almost time for the next dose, skip the
+missed dose. Take the next dose at your regular time. Do not double doses.
+What are possible side effects from using DEXILANT®?
+Like all medications, DEXILANT® can cause side effects. Serious side effects are uncommon.
+These are not all the possible side effects you may feel when taking DEXILANT®.
+The most common side effects are:
+- constipation.
+- diarrhea.
+- gas.
+- headache.
+- nausea.
+- stomach pain.
+Tell your doctor right away if you have any of these symptoms:
+New or worsening joint pain
+Rash on your cheeks or arms that gets worse in the sun
+Your symptoms may get worse after stopping your medication. This may occur as your stomach
+may increase the production of acid.
+Symptom / effect
+
+Serious side effects and what to do about them
+Talk to your healthcare
+professional
+Only if
+In all cases
+severe
+
+RARE
+Clostridium difficile colitis (Bowel
+inflammation). Symptoms include severe
+(watery or bloody) diarrhea, fever, abdominal
+pain or tenderness.
+Liver problems (hepatitis or cholestasis).
+Symptoms include dark-coloured urine and
+pale stools, yellow tinge to skin and eyes
+(jaundice), stomach pain.
+Convulsion or seizure.
+Serious allergic reactions (anaphylaxis).
+Symptoms include severe rash, itching or hives
+on the skin, swelling of the face, lips, tongue
+or other parts of the body. Shortness of breath,
+wheezing or trouble breathing are other
+symptoms.
+
+DEXILANT® Product Monograph
+
+Stop taking drug
+and call your
+doctor or
+pharmacist
+
+
+
+
+
+
+
+Page 37 of 38
+
+Serious skin reactions. Symptoms include
+widespread rash, itching, or hives. Peeling of
+the skin, blisters on the skin, mouth, nose, eyes
+and genitals are other symptoms.
+
+
+
+If you have a troublesome symptom or side effect that is not listed here or becomes bad enough
+to interfere with your daily activities, talk to your healthcare professional.
+Reporting Side Effects
+You can help improve the safe use of health products for Canadians by reporting serious and
+unexpected side effects to Health Canada. Your report may help to identify new side effects
+and change the product safety information.
+3 ways to report:
+•
+Online at MedEffect (http://hc-sc.gc.ca/dhp-mps/medeff/index-eng.php).
+•
+By calling 1-866-234-2345 (toll-free).
+•
+By completing a Consumer Side Effect Reporting Form and sending it by:
+Fax to 1-866-678-6789 (toll-free), or
+Mail to:
+Canada Vigilance Program
+Health Canada, Postal Locator 1908C
+Ottawa, ON
+K1A 0K9
+Postage paid labels and the Consumer Side Effect Reporting Form are available
+at MedEffect (http://hc-sc.gc.ca/dhp-mps/medeff/index-eng.php).
+NOTE: Contact your health professional if you need information about how to manage your
+side effects. The Canada Vigilance Program does not provide medical advice.
+Storage:
+Store DEXILANT® at room temperature, 15°- 30°C.
+Keep out of reach and sight of children.
+If you want more information about DEXILANT®:
+• Talk to your healthcare professional.
+• Find the full product monograph that is prepared for healthcare professionals and includes
+this Patient Medication Information by visiting the Health Canada website (http://hcsc.gc.ca/index-eng.php); the manufacturer’s website www.takeda.com/en-ca, or by calling
+1-866-295-4636.
+This leaflet was prepared by Takeda Canada Inc.
+DEXILANT® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. and used under
+licence by Takeda Canada Inc.
+Last Revised: January 06, 2020
+
+DEXILANT® Product Monograph
+
+Page 38 of 38
+
+
